@@ -22,8 +22,10 @@ section {
     max-width: 800px;
     margin: 20px auto;
 }
-
-h1, h2, h3 {
+h1 {
+    color: white;
+}
+h2, h3 {
     color: #333;
 }
 
